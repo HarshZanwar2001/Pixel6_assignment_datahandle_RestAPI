@@ -1,4 +1,4 @@
-# assignmentpixel6
+# Assignment_Pixel6
 
 echo "# Project Title
 
