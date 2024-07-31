@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple steps.
 1. **Clone the repo**
 
     \`\`\`
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/HarshZanwar2001/Pixel6_assignment_datahandle_RestAPI.git)
+    git clone [[https://github.com/your-username/your-repository-name.git](https://github.com/HarshZanwar2001/Pixel6_assignment_datahandle_RestAPI.git)](https://github.com/HarshZanwar2001/Pixel6_assignment_datahandle_RestAPI.git)
     \`\`\`
 
 2. **Navigate to the project directory**
